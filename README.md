@@ -1,5 +1,5 @@
 # NatureConnect
-find any hike in the national park system
+A content-based recommendation program that suggests relevant hikes to users looking for a hike in the National Park Service catalog
 
 NatureConnect.py is the driver program which uses mainProgHikeProject.py to create an interactive window for users to search for hikes listed in the National Park
 System. 
